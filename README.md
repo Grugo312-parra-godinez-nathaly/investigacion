@@ -1,2 +1,4 @@
 # investigacion
-Divino lógica de un rico duro
+division de disco duro
+
+esta investigacion es hacerca de como se divide el  disco duro
